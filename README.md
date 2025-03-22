@@ -6,7 +6,7 @@ This repository implements a deep learning solution for segmenting cracks in con
 
 The dataset used for this project is the **Mendeley Concrete Crack Image Segmentation** dataset. You can download the dataset from the following link:
 
-[Mendeley Concrete Crack Image Segmentation Dataset](https://data.mendeley.com/datasets/2kr7r7v5s9/1)
+[Mendeley Concrete Crack Image Segmentation Dataset]([https://data.mendeley.com/datasets/2kr7r7v5s9/1](https://data.mendeley.com/datasets/p86fm2h39s/2))
 
 ## Folder Structure
 
