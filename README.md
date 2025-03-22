@@ -12,3 +12,4 @@ The dataset used for this project is the **Mendeley Concrete Crack Image Segment
 
 Below is the recommended folder structure for organizing the project:
 
+concrete-crack-segmentation/ │ ├── data/ │ ├── train/ │ │ ├── images/ # Training images │ │ └── masks/ # Corresponding training masks │ └── test/ │ ├── images/ # Test images │ └── masks/ # Corresponding test masks │ ├── model.py # Contains the NestedModel class definition ├── load_image.py # Utility functions for loading and augmenting images ├── matrics.py # Custom metrics and loss functions ├── train.py # Training and evaluation scrip
