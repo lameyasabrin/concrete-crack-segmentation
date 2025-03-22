@@ -11,7 +11,6 @@ The dataset used for this project is the **Mendeley Concrete Crack Image Segment
 ## Folder Structure
 
 Below is the recommended folder structure for organizing the project:
-
 concrete-crack-segmentation/
 ├── data/
 │   ├── train/
