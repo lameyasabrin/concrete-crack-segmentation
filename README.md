@@ -26,3 +26,9 @@ concrete-crack-segmentation/
 ├── matrics.py              # Custom metrics and loss functions
 ├── train.py                # Training and evaluation script
 ├── LICENSE                 # License file (e.g., MIT License)
+
+
+
+The model is based on a customized Nested U-Net architecture designed for precise crack segmentation.
+
+![Model Architecture](assets/model_architecture.png)
