@@ -26,7 +26,7 @@ concrete-crack-segmentation/
 ├── matrics.py              # Custom metrics and loss functions
 ├── train.py                # Training and evaluation script
 ├── LICENSE                 # License file (e.g., MIT License)
-
+```
 ## Model Architecture
 
 
