@@ -46,7 +46,7 @@ The model is based on a customized Nested U-Net architecture designed for precis
 
 Below are sample predictions from the model on test images:
 
-| Input Image | Ground Truth | Predicted Mask |
+| Image1 | Image2 | Image3 |
 |-------------|--------------|----------------|
 | ![](pp1.png) | ![](pp2.png) | ![](pp3.png) |
 
