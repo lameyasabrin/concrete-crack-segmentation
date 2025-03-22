@@ -31,4 +31,4 @@ concrete-crack-segmentation/
 
 The model is based on a customized Nested U-Net architecture designed for precise crack segmentation.
 
-![Model Architecture](assets/model_architecture.png)
+![Model Architecture](model_architecture.png)
