@@ -11,6 +11,7 @@ The dataset used for this project is the **Mendeley Concrete Crack Image Segment
 ## Folder Structure
 
 Below is the recommended folder structure for organizing the project:
+'''
 concrete-crack-segmentation/
 ├── data/
 │   ├── train/
@@ -24,3 +25,4 @@ concrete-crack-segmentation/
 ├── matrics.py              # Custom metrics and loss functions
 ├── train.py                # Training and evaluation script
 ├── LICENSE                 # License file (e.g., MIT License)
+'''
