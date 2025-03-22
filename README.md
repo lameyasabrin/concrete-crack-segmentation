@@ -41,3 +41,13 @@ The model is based on a customized Nested U-Net architecture designed for precis
 
 ### 🔹 IoU Curve
 ![IoU](Capture3.png)
+
+## 🧪 Sample Predictions
+
+Below are sample predictions from the model on test images:
+
+| Input Image | Ground Truth | Predicted Mask |
+|-------------|--------------|----------------|
+| ![](pp1.png) | ![](pp2.png) | ![](pp3.png) |
+
+
