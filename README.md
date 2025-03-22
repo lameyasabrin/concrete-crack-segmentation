@@ -37,7 +37,7 @@ The model is based on a customized Nested U-Net architecture designed for precis
 ## 📊 Training Performance
 
 ### 🔹 Accuracy Curve
-![Accuracy](accuracy_curve.png)
+![Accuracy](Capture2.png)
 
 ### 🔹 IoU Curve
-![IoU](iou_curve.png)
+![IoU](Capture3.png)
